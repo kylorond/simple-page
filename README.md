@@ -1,4 +1,4 @@
 # simple-page
-Open terminal
+Open Terminal
 type
-'git clone github.com/kylorond/simple-page.git'
+'git clone https://github.com/kylorond/simple-page.git'
